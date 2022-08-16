@@ -15,6 +15,3 @@ This project is an attempt create a fiction website with the following brief:
 Project is created with:
 * HTML5
 * CSS
-	
-## Setup
-To run this project, download the files and open in a web browser.
